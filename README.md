@@ -65,6 +65,9 @@ postman.setNextRequest('foo'); // this will call the next request called foo (yo
 ```
 
 2. In `/payment/{{foo}}/frog` as PUT request, you update foo and mark it as `frog`.
+Wait a minute. What is {{}} thingy? That is environment variable we set. That value will be used in there.
+if `foo` is set to `hello` then the whole URL will be like `/payment/hello/frog`:)
+
 ```js
 tests["FROG!"] = true;              // debug message
 const ids = JSON.parse(postman.getEnvironmentVariable('foos'));
