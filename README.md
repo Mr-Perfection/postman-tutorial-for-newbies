@@ -3,7 +3,7 @@ Are you new to Postman? I got you covered!
 
 ### Introduction
 I have recently done coding challenge for [TransferWise](https://transferwise.com/us/) and realized I had to use a dev tool in order
-to submit my solutions to their server! I sort of knew about [Postman](https://www.getpostman.com/) and realized I would need to use it to send requests to submit my solutions (with Rest API). It was easy in the beginning of the problems that they want me to solve which only includes few requests. After few problems and as I moved up to more difficult problems, I realized *holy molly* there is no way I will send requests individually, and I need to figure out how to automate tests (the whole purpose of programming), so I don't need to spend hours on just sending request manually.
+to submit my solutions to their server! I sort of knew about [Postman](https://www.getpostman.com/) and realized I would need to use it to send requests to submit my solutions (via Rest API). It was easy in the beginning of the problems that they want me to solve which only includes few requests. After few problems and as I moved up to more difficult problems, I realized *holy molly* there is no way I will send requests individually, and I need to figure out how to automate tests (the whole purpose of programming), so I don't need to spend hours on just sending request manually.
 This repo will help you how to use Postman in general and dive into [Collection Runner](https://www.getpostman.com/docs/running_collections) which will help you run automated tests.
 **I will discuss about some basics in the beginning and dive into collection runner which is a more advanced topic.**
 
