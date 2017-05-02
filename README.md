@@ -112,7 +112,7 @@ Once everything is working properly, start the *collection runner by clicking ru
 ![alt text](demos/collectionRunner.png "Collection runner")
 Choose which collection to run and that's it!!
 
-I really hope you found this useful. I struggled to use collection runner in the beginning but with trials and errors (and googling), I was able to figure out how to use **Colection Runner** properly. Good luck!
+I really hope you found this useful. I struggled to use collection runner in the beginning but with trials and errors (and googling), I was able to figure out how to use **Collection Runner** properly. Good luck!
 
 ### references
 good tutorial: https://thisendout.com/2017/02/22/loops-dynamic-variables-postman-pt2/
